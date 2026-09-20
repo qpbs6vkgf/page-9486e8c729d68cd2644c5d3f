@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "162bee7fa5fe24427060000a",
+  "owner": "qpbs6vkgf",
+  "repo": "page-9486e8c729d68cd2644c5d3f",
+  "title": "云图小镇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "9486e8c729d68cd2644c5d3f",
+      "a": "云图小镇",
+      "b": "稳定全球clash加速器",
+      "entity": "云图小镇",
+      "brand": "云图小镇",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b913a28e88328749764e026fc5e75e60b75b3b4145ebf5bc7705baf2a60a75dd",
+      "content": {
+        "primary_entity": "云图小镇",
+        "keyword1": "云图小镇",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，再导入订阅完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好设备与套餐，再导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付分别为 ¥15、¥35 与 ¥85，流量从 100GB 到 1000GB，设备数覆盖 3 台到 20 台，可按使用人数和订阅周期挑选。",
+          "AI_FEATURES_INTRO": "围绕流量、设备数量与节点线路，选择适合日常使用的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合轻量浏览与移动端使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线并优化游戏加速表现。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，提供 VIP 高带宽节点与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选版本",
+          "AI_FEATURE_TITLE_2": "按用途匹配线路",
+          "AI_FEATURE_TITLE_3": "按人头与周期",
+          "AI_GUIDE_INTRO": "从确认需求到客户端订阅导入，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置三步走",
+          "AI_HERO_INTRO": "云图小镇提供面向多设备的订阅服务，套餐按流量与设备数量区分，可按月或按年付费。结合日常浏览、流媒体与游戏加速需求，挑选合适版本并配置订阅。",
+          "AI_HERO_SUBTITLE": "套餐清晰，订阅配置简单",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，按年付更省",
+          "AI_HIGHLIGHT_2": "流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_3": "同时在线设备 3 至 20 台",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合多设备流媒体与游戏，团队版适合小团队共享。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐的设备上限、节点线路与订阅周期说明。",
+          "AI_STEP_TEXT_3": "在对应客户端中新建订阅，粘贴地址后更新节点即可使用。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "云图小镇订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备；团队版每月 1000GB，支持 20 台设备。按日常流量和同时在线设备数选择即可。",
+          "AI_FAQ_ANSWER_2": "年付比月付节省两个月费用：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。长期使用年付更划算。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供 IPLC 专线节点，针对游戏延迟做优化，同时支持全节点原生流媒体解锁。团队版提供 VIP 专属高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_4": "客户端选择与设备系统有关。Windows、macOS、Android、iOS 和路由器各有对应客户端，具体名称与配置方法可查看客户端文档。",
+          "AI_FAQ_ANSWER_5": "订阅通常通过客户端导入订阅链接完成。不同客户端的导入入口不同，请参照所用客户端的文档进行操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版在流量与设备上有什么区别？",
+          "AI_FAQ_QUESTION_2": "年付套餐相比月付能节省多少？",
+          "AI_FAQ_QUESTION_3": "哪个套餐适合游戏和流媒体？",
+          "AI_FAQ_QUESTION_4": "不同设备该选用哪个客户端？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gongchengrc.cn",
+    "host": "gongchengrc.cn"
+  },
+  "file_hashes": {
+    "index.html": "77e5229b8b39bbc7bcf76fdc75fa9db725c3a0057fce08b23cefff17c5cd501a",
+    "sitemap.xml": "39cf9f8ea623907120ed9a6dfa23398b88429b5dc7071929e5b6fea9fc8527f0",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2f8fef70aa8cb0d02e2a7433ca020d982b1ad8b9e3e90fd50f5f609ac287526f",
+    "robots.txt": "8b608fc4c0b8cde43341bd511f25e785607eaa3fe89dab7afd975bbbcf1d71a1",
+    "aa569c3a06fb72d74ddcad35d047a8c3.txt": "d1b0b0c2406492baf5f2ffcfdbb872b73008735e6fdab574e269c207764ebbfa"
+  },
+  "revision": "0600d3b8f2a4ec568ac97e0914c8bf71b2b3e506c545c659f271185b29af41e7"
+}
